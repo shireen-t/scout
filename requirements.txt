@@ -1,0 +1,7 @@
+PyMuPDF
+requests
+beautifulsoup4
+google
+aiohttp
+fastapi
+uvicorn
